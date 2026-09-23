@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Link",
+          "value": "<https://map2model.vercel.app/>; rel=\"canonical\""
+        }
+      ]
+    }
+  ]
+}
